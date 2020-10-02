@@ -1,0 +1,32 @@
+.container{
+    margin-top: 20px;
+}
+
+.active{
+    border-radius: 0px 0px 0px 0px !important;
+}
+
+form{
+    margin: auto;
+    border: 2px solid #3f65cf;
+    border-radius: 10px;
+    width: 50%;
+    padding: 20px;
+    background: #dbe3f6;
+}
+
+h4{
+    color: #001652;
+    text-align: center;
+}
+
+hr{
+    border: 1px solid #3f65cf;
+}
+
+nav{
+    border: 0px;
+    width: 100%;
+    padding: 0px;
+    background: #dbe3f6;
+}
